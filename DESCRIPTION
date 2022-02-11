@@ -1,0 +1,18 @@
+Package: example.package
+Title: Example Package is an Example Package
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Rebekah",
+           family = "Yu",
+           role = c("aut", "cre"),
+           email = "rebekah.yu21@gmail.com")
+Description: This simulates data and summarizes results
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.2
+Imports: 
+    dplyr,
+    magrittr,
+    tibble
