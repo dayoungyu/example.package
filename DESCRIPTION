@@ -16,3 +16,5 @@ Imports:
     dplyr,
     magrittr,
     tibble
+URL: https://github.com/dayoungyu/example.package
+BugReports: https://github.com/dayoungyu/example.package/issues
